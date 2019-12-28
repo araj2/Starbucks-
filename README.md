@@ -10,7 +10,9 @@ What is the age group with the highest conversion?
 What type of media allowed for higher conversion?
 
 # Results
-The main findings of the code can be found at https://medium.com/@ashishraj_2663/starbucks-promotional-offer-analysis-888b2642379f
+The main findings of the code were that the people who utilized their offers were on average male, around 50 years of age and had average income of $50k. 
+
+More can be found at https://medium.com/@ashishraj_2663/starbucks-promotional-offer-analysis-888b2642379f. 
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
