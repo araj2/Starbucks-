@@ -1,7 +1,7 @@
 # Starbucks-
 
 # Project Motivation
-This project takes a look at the the promotional offers that were conducted by Starbucks.
+This project takes a look at the the promotional offers that were conducted by Starbucks.This objective was chosen because conversion rate is an important metric that quanitfies how many customers is the campaign able to convert and simultabesouly measure the effectiveness and efficiency of the marketing campaign. 
 
 The questions this assigment attempts to answer are:
 
